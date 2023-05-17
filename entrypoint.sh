@@ -5,7 +5,7 @@ WSPATH=${WSPATH:-'argo'}
 UUID=${UUID:-'deeb8cc0-2db1-49bf-98ef-b46db4bfef09'}
 
 # 其他Paas保活
-PAAS1_URL=
+PAAS1_URL=https://hello-world-blue-voice-9805.cfhvgbjh.workers.dev/
 PAAS2_URL=
 PAAS3_URL=
 PAAS4_URL=
