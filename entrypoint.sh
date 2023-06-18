@@ -5,11 +5,11 @@ WSPATH=${WSPATH:-'argo'}
 UUID=${UUID:-'deeb8cc0-2db1-49bf-98ef-b46db4bfef09'}
 
 # 其他Paas保活
-PAAS1_URL=https://hello-world-blue-voice-9805.cfhvgbjh.workers.dev/
-PAAS2_URL=
-PAAS3_URL=
-PAAS4_URL=
-PAAS5_URL=
+PAAS1_URL=https://r3lhvs-3000.csb.app/
+PAAS2_URL=https://app-robertjackoo.cloud.okteto.net/
+PAAS3_URL=https://tast-owc6.onrender.com/
+PAAS4_URL=https://frankwalker-test.hf.space/
+PAAS5_URL=https://ovo-kpg5m99t0.b4a.run/
 PAAS6_URL=
 
 # koyeb账号保活
