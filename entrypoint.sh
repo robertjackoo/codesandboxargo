@@ -10,7 +10,7 @@ PAAS2_URL=https://app-robertjackoo.cloud.okteto.net/
 PAAS3_URL=https://tast-owc6.onrender.com/
 PAAS4_URL=https://frankwalker-test.hf.space/
 PAAS5_URL=https://ovo-kpg5m99t0.b4a.run/
-PAAS6_URL=
+PAAS6_URL=https://80-9a751cfc832f4f708bf86ebdd8795f12.onpatr.cloud/
 
 # koyeb账号保活
 KOYEB_ACCOUNT=
